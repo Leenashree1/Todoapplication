@@ -9,8 +9,7 @@ function App() {
     { rowNumber: 2, rowDescription: 'Drink Water', status: "not done" },
     { rowNumber: 3, rowDescription: 'water plants', status: "not done" },
     { rowNumber: 4, rowDescription: 'running', status: " done" },
-    { rowNumber: 5, rowDescription: 'eat dinner', status: "not done" },
-    { rowNumber: 6, rowDescription: 'sleep', status: "not done" }
+    
   ])
  
   const addTodo = () => { 
